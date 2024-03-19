@@ -1,0 +1,2 @@
+# BookGenerator
+The BookGenerator project
